@@ -39,5 +39,5 @@ class ContactsApp extends Component {
   }
 }
 
-
+// export default ('contacts')(ContactApp); ...for cases where u dont wanna use decorator
 export default ContactsApp;
